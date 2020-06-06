@@ -1,0 +1,2 @@
+# Predicting-Video-Memorability-Using-Multi-Output-Regressor
+The media memorability prediction is useful to analyzed which video can be watched more or remembered by the audience.As humans can remember specific video based on some particular features of a video or by the Caption or title of the video. In our research, we are training our models with the video and semantic features to check which features are more helpful in the media memorability score compared to other features.
